@@ -1,17 +1,16 @@
 ## Hi there 👋
 
-<!--
-**napster235/napster235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Ruby on Rails developer who loves programming in Ruby.
 
-Here are some ideas to get you started:
+<p>🐴 I've created the Ruby gem [pony_breeds](https://github.com/napster235/pony_breeds) that lets you explore the world of ponies.</p>
+<p>🌱 I am an open source contributor, always ready to collaborate and help others.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://komarev.com/ghpvc/?username=napster235)
+🛠️ Tech Stack
+
+- Languages: Ruby
+
+- Frameworks: Ruby on Rails
+
+- Tools & Platforms: Git, GitHub, RSpec, Redis
+  
+![](https://komarev.com/ghpvc/?username=napster235&color=green&style=plastic)
