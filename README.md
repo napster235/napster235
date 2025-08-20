@@ -11,6 +11,6 @@ I'm a passionate Ruby on Rails developer who loves programming in Ruby.
 
 - Frameworks: Ruby on Rails
 
-- Tools & Platforms: Git, GitHub, RSpec, Redis
+- Tools & Platforms: Git, RSpec, Redis
   
 ![](https://komarev.com/ghpvc/?username=napster235&color=green&style=plastic)
